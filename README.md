@@ -11,7 +11,7 @@ Un sistema de gestión de biblioteca con funcionalidad CRUD para libros, usuario
 - Patrón de diseño DAO para la persistencia de datos.
 
 ## Tecnologías utilizadas
-- Java 11+
+- Java 18
 - MySQL
 - JDBC
 
