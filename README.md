@@ -54,7 +54,7 @@ A library management system with CRUD functionality for books, users, and loans.
 - DAO pattern for data persistence.
 
 ## Technologies Used
-- Java 11+
+- Java 18
 - MySQL
 - JDBC
 
